@@ -1,0 +1,2 @@
+rootProject.name = "Gereja Yesus 2.0"
+include ':app'

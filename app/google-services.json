@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170842824405",
+    "project_id": "gereja-yesus-2",
+    "storage_bucket": "gereja-yesus-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170842824405:android:415123de88d942317f0c5c",
+        "android_client_info": {
+          "package_name": "com.teddy.gerejayesus20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170842824405-3aki9pbeqt66no7jm93p8eomhhfsns47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX0V9vZDSvodWxBgS54cDMh1siG2Nq6bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170842824405-3aki9pbeqt66no7jm93p8eomhhfsns47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

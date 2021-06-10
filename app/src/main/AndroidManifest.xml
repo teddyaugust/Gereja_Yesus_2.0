@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.teddy.gerejayesus20">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcherxhdpi"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcherxhdpi"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GerejaYesus20">
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".TentangAplikasi" />
+        <activity android:name=".KidungOnline" />
+        <activity android:name=".AlkitabOnline" />
+        <activity android:name=".ChatBotWA" />
+        <activity android:name=".BukuTamu" />
+        <activity android:name=".KontakGereja" />
+        <activity android:name=".MenjadiJemaat" />
+        <activity android:name=".ProfilGereja" />
+        <activity android:name=".WartaPengurus" />
+        <activity android:name=".WartaJemaat" />
+        <activity android:name=".IbadahOnline" />
+        <activity android:name=".Renungan" />
+        <activity android:name=".MainActivity"/>
+
+    </application>
+
+</manifest>
